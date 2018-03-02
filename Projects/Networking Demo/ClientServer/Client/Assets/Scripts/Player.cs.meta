@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f88074536be4f7d499d64806f3a0c3bf
+timeCreated: 1512601248
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - teamIndicator: {fileID: 1404660874324778, guid: 32a448e11b95e0c4c809a9c47a017f2f,
+      type: 2}
+  - redMat: {fileID: 2100000, guid: 96558d27fe79bda4b9f1d88ab12f66fd, type: 2}
+  - blueMat: {fileID: 2100000, guid: c166995a608eabd4fbff2221ad062202, type: 2}
+  - Client: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

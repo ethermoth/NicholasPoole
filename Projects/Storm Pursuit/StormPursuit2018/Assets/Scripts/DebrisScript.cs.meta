@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 44d289830ec2473468a6a0647e20ce80
+timeCreated: 1519590971
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - deathCanvas: {instanceID: 0}
+  - deathSound: {fileID: 82310202341905636, guid: afec3f6e9da580f4bb4f8b5406335a23,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

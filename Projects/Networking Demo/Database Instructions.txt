@@ -1,0 +1,7 @@
+The database required for this build to function, "350_server", is at the top of this folder.
+You may need to insert that folder into your MySQL Data folder, which should be at something like
+"Local Disk (C:) -> ProgramData -> MySQL -> MySQL Server [version number] -> Data".
+
+This build, unfortunately, required the editor to be used to notice the database, as it's exclusively noted in the
+Debug Log. The database can record a player's name and score between playthroughs; using the same name will give
+the player their previous score.
