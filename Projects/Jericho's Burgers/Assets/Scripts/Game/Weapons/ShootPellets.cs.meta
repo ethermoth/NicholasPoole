@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 08a5002ace885b44c82af2fee69054d5
+timeCreated: 1520609881
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pelletSpawn: {instanceID: 0}
+  - Pellet: {fileID: 1171552303496664, guid: 5a4c24cd568111f42b193941254e8c58, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

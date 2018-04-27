@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 654e4e7acbea9a54f967e8492748f0d2
+timeCreated: 1520020471
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: handle_low
+    100004: laver_low
+    100006: mainvalve_low
+    100008: metalSheet1_low
+    100010: metalSheet2_low
+    100012: metalSheet3_low
+    100014: plank_low
+    100016: propaneTank1_low
+    100018: propaneTank2_low
+    100020: tourch_low
+    100022: tubes_low
+    400000: //RootNode
+    400002: handle_low
+    400004: laver_low
+    400006: mainvalve_low
+    400008: metalSheet1_low
+    400010: metalSheet2_low
+    400012: metalSheet3_low
+    400014: plank_low
+    400016: propaneTank1_low
+    400018: propaneTank2_low
+    400020: tourch_low
+    400022: tubes_low
+    2300000: handle_low
+    2300002: laver_low
+    2300004: mainvalve_low
+    2300006: metalSheet1_low
+    2300008: metalSheet2_low
+    2300010: metalSheet3_low
+    2300012: plank_low
+    2300014: propaneTank1_low
+    2300016: propaneTank2_low
+    2300018: tourch_low
+    2300020: tubes_low
+    3300000: handle_low
+    3300002: laver_low
+    3300004: mainvalve_low
+    3300006: metalSheet1_low
+    3300008: metalSheet2_low
+    3300010: metalSheet3_low
+    3300012: plank_low
+    3300014: propaneTank1_low
+    3300016: propaneTank2_low
+    3300018: tourch_low
+    3300020: tubes_low
+    4300000: metalSheet2_low
+    4300002: propaneTank2_low
+    4300004: metalSheet1_low
+    4300006: mainvalve_low
+    4300008: handle_low
+    4300010: tourch_low
+    4300012: tubes_low
+    4300014: metalSheet3_low
+    4300016: plank_low
+    4300018: propaneTank1_low
+    4300020: laver_low
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GrillSeparated_001_default2
+    second: {fileID: 2100000, guid: fc40f012e76e1784e96d99ac72cd4389, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

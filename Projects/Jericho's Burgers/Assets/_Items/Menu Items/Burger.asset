@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9efbd96b872a7b546b57bf62783055c3, type: 3}
+  m_Name: Burger
+  m_EditorClassIdentifier: 
+  itemName: Classic Burger
+  reward: 5
+  itemComponents:
+  - {fileID: 11400000, guid: d1b19134325fac04baa31c609eafb528, type: 2}
+  - {fileID: 11400000, guid: 2863765cac80d134a96ff06e25081e32, type: 2}
+  - {fileID: 11400000, guid: 13f5e481a0fbd9a4fb7a0f2f77cca5ad, type: 2}
+  - {fileID: 11400000, guid: 0e7368c269ba4864bb61168e323d1d4e, type: 2}
+  - {fileID: 11400000, guid: 4cd2c2759d186324fbaf473f5dbf392e, type: 2}
+  debug: 0
